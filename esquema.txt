@@ -1,0 +1,12 @@
+mi_asistente/
+├── src/
+│   ├── __init__.py
+│   ├── speech_recognition.py
+│   ├── nlp_processor.py
+│   ├── response_generator.py
+│   └── main.py
+├── data/
+│   └── training_data/
+└── requirements.txt
+
+
